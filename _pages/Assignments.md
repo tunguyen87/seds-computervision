@@ -18,7 +18,7 @@ All the python files (i.e., *assignment\*.ipynb, \*.py*) we ask you to code up m
 
 Programming assignments must be submitted by the Nur-sultan time specified at the time of the assignment. They must be submitted to the proper place in Moodle on the announced due date. In case Moodle does not work, assignments need to be submitted by email to your instructors and teaching assistants by the same time and day as specified in the assignment. 
 
-You will be penalized 20% of points per day late. Therefore, in cases of illness or family emergency, you must inform your instructor immediately if you believe you will not be able to submit your assignment on time. In such cases, an exception may be made at the discretion of your instructor. In addition, live grading will be done if the instructor feels that the assignment is a result of plagiarism.
+**You will be penalized 20% of points per day late**. Therefore, in cases of illness or family emergency, you must inform your instructor immediately if you believe you will not be able to submit your assignment on time. In such cases, an exception may be made at the discretion of your instructor. In addition, live grading will be done if the instructor feels that the assignment is a result of plagiarism.
 
 Assignment 1: Linear Algebra and Filtering
 ======

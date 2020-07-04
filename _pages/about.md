@@ -10,9 +10,6 @@ redirect_from:
 
 Fall 2020
 
-Course Description
-======
-This course is a one-semester course intended for M.S. students in Computer Science and Data Science graduate programs. It enhances the student’s knowledge in computer vision concepts and approaches such as image formation, camera imaging geometry, feature detection and matching, stereo, image classification, scene understanding, and deep learning. In class, we will develop the intuitions and mathematics of the vision approaches. We will expose students to a number of real-world applications that are important to our daily lives. To further differentiate between theory and practice, we will guide students through a series of research projects such that they will have chance to implement cutting-edge computer vision algorithms. Students will also gain experience through research papers, with an emphasis on proper computer vision practices with appropriate applications.
 
 Instructor: Prof. Nguyen Anh Tu
 ======
@@ -20,6 +17,10 @@ Instructor: Prof. Nguyen Anh Tu
 - **Class location:** Online
 - **Office hours:** TBA
 - **Email:** tu.nguyen@nu.edu.kz
+
+Course Description
+======
+This course is a one-semester course intended for M.S. students in Computer Science and Data Science graduate programs. It enhances the student’s knowledge in computer vision concepts and approaches such as image formation, camera imaging geometry, feature detection and matching, stereo, image classification, scene understanding, and deep learning. In class, we will develop the intuitions and mathematics of the vision approaches. We will expose students to a number of real-world applications that are important to our daily lives. To further differentiate between theory and practice, we will guide students through a series of research projects such that they will have chance to implement cutting-edge computer vision algorithms. Students will also gain experience through research papers, with an emphasis on proper computer vision practices with appropriate applications.
 
 Course aims
 ======

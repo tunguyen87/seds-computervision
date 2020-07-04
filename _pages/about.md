@@ -26,6 +26,7 @@ This course is a one-semester course intended for M.S. students in Computer Scie
 
 Course aims
 ======
+The aims of the course are:
 1. to expose students to various computer vision concepts and approaches such as image formation, feature detection and matching, stereo, motion estimation and tracking, image classification, scene understanding, and deep learning
 1. to familiarize students with state-of-the-art computer vision techniques
 1. to present students the various ways to further improve the performance of state-of-the-art computer vision techniques

@@ -10,9 +10,9 @@ redirect_from:
 
 Instructions for the submission of assignments
 ======
-There will be several assignments during this semester. These assignments will mainly involve building out prototypes for applications that we will discuss in class. Each assignment will contain a assignment*.ipynb ipython notebook file that will guide you through the assignment. This file will ask you to code up functions in other *.py files. All the instructions necessary for the assignment are contained in these assignment*.ipynb files.
+There will be several assignments during this semester. These assignments will mainly involve building out prototypes for applications that we will discuss in class. Each assignment will contain a assignment.ipynb ipython notebook file that will guide you through the assignment. This file will ask you to code up functions in other \*.py files. All the instructions necessary for the assignment are contained in these assignment\*.ipynb files.
 
-All the python files (i.e., assignment*.ipynb, *.py) we ask you to code up must be submitted to Moodle as well under the assignment called ASSIGNMENT*_CODE.
+All the python files (i.e., assignment\*.ipynb, \*.py) we ask you to code up must be submitted to Moodle as well under the assignment called ASSIGNMENT\*_CODE.
 
 **Late policy for assignment submission**
 

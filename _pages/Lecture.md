@@ -19,27 +19,26 @@ Last day of classes: TBA
 | Lecture      |  Week | Date        |            Description                                       |  Slides            |  Further readings  |
 | --------     | ------|------------ | ------------------------------------------------------------ |--------------------|--------------------|
 | Lecture 1    |   1   |August 15    | **Introduction to  Computer Vision** <br>-Introduction to computer vision<br>-Applications|   pdf  |        |
-| Lecture 2    |   1   |             | **Math review** <br>-Transformation matrixes<br>-Eigenvalues and eigenvectors<br>-Matrix calculus and hessian |  pdf  |        |
+| Lecture 2    |   1   |             | **Math review** <br>-Transformation matrixes<br>-Eigenvalues and eigenvectors<br>-Matrix calculus and hessian |  pdf  |       |
 | Lecture 3    |   2   |             | **Image formation and filtering** <br>-Pixels and image representation<br>-Image Formation<br>-Camera Models |  pdf |        |
-| Lecture 4    |   2   |             | **Introduction to  Computer Vision** <br>-Introduction to computer vision<br>-Applications|   pdf  |        |
-| Lecture 5    |   3   |             | **Math review** <br>-Transformation matrixes<br>-Eigenvalues and eigenvectors<br>-Matrix calculus and hessian |  pdf  |        |
-| Lecture 6    |   3   |             | **Image formation and filtering** <br>-Pixels and image representation<br>-Image Formation<br>-Camera Models |  pdf |        |
-| Lecture 7    |   4   |             | **Introduction to  Computer Vision** <br>-Introduction to computer vision<br>-Applications|   pdf  |        |
-| Lecture 8    |   4   |             | **Math review** <br>-Transformation matrixes<br>-Eigenvalues and eigenvectors<br>-Matrix calculus and hessian |  pdf  |        |
-| Lecture 9    |   5   |             | **Image formation and filtering** <br>-Pixels and image representation<br>-Image Formation<br>-Camera Models |  pdf |        |
-| Lecture 10   |   5   |             | **Introduction to  Computer Vision** <br>-Introduction to computer vision<br>-Applications|   pdf  |        |
-| Lecture 11   |   6   |             | **Math review** <br>-Transformation matrixes<br>-Eigenvalues and eigenvectors<br>-Matrix calculus and hessian |  pdf  |        |
-| Lecture 12   |   6   |             | **Image formation and filtering** <br>-Pixels and image representation<br>-Image Formation<br>-Camera Models |  pdf |        |
-| Lecture 13   |   7   |             | **Introduction to  Computer Vision** <br>-Introduction to computer vision<br>-Applications|   pdf  |        |
-| Lecture 14   |   7   |             | **Math review** <br>-Transformation matrixes<br>-Eigenvalues and eigenvectors<br>-Matrix calculus and hessian |  pdf  |        |
-| Lecture 15   |   8   |             | **Image formation and filtering** <br>-Pixels and image representation<br>-Image Formation<br>-Camera Models |  pdf |        |
-| Lecture 16   |   8   |             | **Introduction to  Computer Vision** <br>-Introduction to computer vision<br>-Applications|   pdf  |        |
-| Lecture 17   |   9   |             | **Math review** <br>-Transformation matrixes<br>-Eigenvalues and eigenvectors<br>-Matrix calculus and hessian |  pdf  |        |
-| Lecture 18   |   9   |             | **Image formation and filtering** <br>-Pixels and image representation<br>-Image Formation<br>-Camera Models |  pdf |        |
-| Lecture 19   |   10  |             | **Introduction to  Computer Vision** <br>-Introduction to computer vision<br>-Applications|   pdf  |        |
-| Lecture 20   |   10  |             | **Math review** <br>-Transformation matrixes<br>-Eigenvalues and eigenvectors<br>-Matrix calculus and hessian |  pdf  |        |
-| Lecture 21   |   11  |             | **Image formation and filtering** <br>-Pixels and image representation<br>-Image Formation<br>-Camera Models |  pdf |        |
-| Lecture 22   |   11  |             | **Introduction to  Computer Vision** <br>-Introduction to computer vision<br>-Applications|   pdf  |        |
-| Lectures 23+24|   12  |             | **Math review** <br>-Transformation matrixes<br>-Eigenvalues and eigenvectors<br>-Matrix calculus and hessian |  pdf  |        |
-| Lectures 25+26|   13  |             | **Image formation and filtering** <br>-Pixels and image representation<br>-Image Formation<br>-Camera Models |  pdf |        |
-|              |   14  |             | **Image formation and filtering** <br>-Pixels and image representation<br>-Image Formation<br>-Camera Models |  pdf |        |
+| Lecture 4    |   2   |             | **Filtering** <br>-Linear systems<br>-Convolutions|   pdf  |        |
+| Lecture 5    |   3   |             | **Edge detection** <br>-Derivatives<br>-Image Enhancement<br>-Sobel filters |  pdf  |        |
+| Lecture 6    |   3   |             | **Edge detection(cont'd)** <br>-Canny edge detector |  pdf |        |
+| Lecture 7    |   4   |             | **Hough Transformation** <br>-Line detection<br>-Circle detection<>-Generalized Hough Transform|   pdf  |        |
+| Lecture 8    |   4   |             | **Interest points** <br>-Finding interest points<br>-Harris Corner Detection |  pdf  |        |
+| Lecture 9    |   5   |             | **Corner detection** <br>-Harris Corner Detection(cont'd)<br>-Multiscale detection |  pdf |        |
+| Lecture 10   |   5   |             | **Local Image Features in Scale Space** <br>-Designing descriptors<br>-Difference of Gaussians|   pdf  |        |
+| Lecture 11   |   6   |             | **Local Image Features in Scale Space(cont'd)** <br>-Affine Invariance and SIFT<br>-More Feature Descriptors |  pdf  |        |
+| Lecture 12   |   6   |             | **Matching** <br>-Model fitting<br>-RANSAC |  pdf |        |
+| Lecture 13   |   7   |             | **Machine Learning crash course** <br>-Supervised learning<br>-Unsupervised learning|   pdf  |        |
+| Lecture 14   |   7   |             | **Image segmentation** <br>-Theory of perceptual grouping<br>-Aggomerative clustering<br>-Superpixels and oversegmentation| pdf |       |
+| Lecture 15   |   8   |             | **Visual Recognition and Bag of Words** <br>-Visual Bag of Words<br>-Image Pyramid<br>-Feature encoding|  pdf  |      |
+| Lecture 16   |   8   |             | **Visual Recognition and Bag of Words(cont'd)** <br>-Classification<br>-Scene Categorization<br>-Action recogniton|   pdf  |        |
+| Lecture 17   |   9   |             | **Content-based Image Retrieval** <br>-TF-IDF<br>-Spatial Verification  |  pdf  |        |
+| Lecture 18   |   9   |             | **Content-based Image Retrieval(cont'd)** <br>-Spatial Verification(cont'd)<br>-Query Expansion |  pdf |        |
+| Lecture 19   |   10  |             | **Object detection** <br>-Detecting objects by parts|   pdf  |        |
+| Lecture 20   |   10  |             | **Object detection(cont'd)** <br>-Detection with Sliding Windows (Viola Jones) |  pdf  |        |
+| Lectures 21+22|   11  |             | **Face Recognition** <br>-Eigenfaces<br>-Local Binary Patterns and its variants<br>-Advanced methods for face recognition|  pdf |      |
+| Lectures 23+24|   12  |             | **Convolutional Neural Networks – Part I** <br>-Perceptron<br>-Basic Neural Network<br>-Perceptron Training<br>-Gradient Descent|pdf|  |
+| Lectures 25+26|   13  |             | **Convolutional Neural Networks – Part 2** <br>-Backpropagation<br>-CNN<br>-Architectures<br>-CNN-based Vision Applications | pdf |     |
+| No Lecture    |   14  |             | **Student presentations**  |      |        |

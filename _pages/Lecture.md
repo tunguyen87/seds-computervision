@@ -11,8 +11,11 @@ redirect_from:
 Lecture Schedule
 ======
 Last day to add:  TBA
+
 Last day to drop:  TBA
+
 Last day to withdraw (with ‘W’): TBA
+
 Last day of classes: TBA
 
 | Lecture      | Date         |            Description                                       |  Further readings  | 

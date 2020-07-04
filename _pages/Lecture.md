@@ -8,10 +8,15 @@ redirect_from:
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
-
-Heading 1
+Lecture Schedule
 ======
+Last day to add:  TBA
+Last day to drop:  TBA
+Last day to withdraw (with ‘W’): TBA
+Last day of classes: TBA
 
-Heading 2
-======
+| Lecture      | Date         |            Description                                       |  Further readings  | 
+| --------     | ------------ | ------------------------------------------------------------ |--------------------|
+| Lecture 1    | August 15    | **Introduction to  Computer Vision** <br>-Introduction to computer vision<br>-Applications|           |
+| Lecture 2    |              | **Math review** <br>-Transformation matrixes<br>-Eigenvalues and eigenvectors<br>-Matrix calculus and hessian |          |
+| Lecture 3    |              | **Image formation and filtering** <br>-Pixels and image representation<br>-Image Formation<br>-Camera Models |         |

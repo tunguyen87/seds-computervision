@@ -1,22 +1,14 @@
 # main links links
 main:
-  - title: "Lecture schedule"
+  - title: "Lecture Schedule"
     url: /Lecture/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Programming Assignments"
+    url: /Assignments/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Homework"
+    url: /Homework/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+        
   - title: "Guide"
     url: /markdown/

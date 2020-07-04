@@ -8,7 +8,9 @@ main:
     
   - title: "Homework"
     url: /Homework/
-        
+   
+  - title: "Term Project"
+    url: /Project/
         
   - title: "Guide"
     url: /markdown/

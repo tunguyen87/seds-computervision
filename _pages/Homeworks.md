@@ -16,7 +16,7 @@ There will be several written assignments or homeworks during this semester. Eac
 
 Homeworks must be submitted by the Nur-sultan time specified at the time of the homework. They must be submitted to the proper place in Moodle on the announced due date. In case Moodle does not work, homeworks need to be submitted by email to your instructors and teaching assistants by the same time and day as specified in the homework. 
 
-**You will be penalized 20% of points per day late**. Therefore, in cases of illness or family emergency, you must inform your instructor immediately if you believe you will not be able to submit your homework on time. In such cases, an exception may be made at the discretion of your instructor.
+**You will be penalized 20% of points per day late**. Therefore, in any cases of illness or family emergency, you must inform your instructor immediately if you believe you will not be able to submit your homework on time. In such cases, an exception may be made at the discretion of your instructor.
 
 Homework 1: Linear Algebra
 ======

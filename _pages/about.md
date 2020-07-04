@@ -64,6 +64,8 @@ This semester, the course will be completely online. The pages linked from the â
 
 **Homework.** Besides the programming assigments, you have several written assignments or homeworks during this semester. Each homework is centered around an application and will also deepen your understanding of the theoretical concepts. Homeworks should be written up clearly and concisely. You may lose points if your answers are unclear or unnecessarily complicated. Also, they must be scanned (or typed) and submitted before the given deadline to Moodle. 
 
+**Midterm exam.** We will be having an online Moodle exam. Students cannot use notes, books, software, or other online materials or aids (e.g., an IDE) during the quiz. In some instances, we may allow the use of scratch paper to help you work out your solutions. The individual quizzes will be cumulative in the material covered up to the current point in the schedule. You will be required to record yourself during the exam so we can see both you and your computer desktop. Further detials will be provided on Piazza about how to install the proper software, and what procedures you need to follow. Note that we will not have make-up quizzes this semester.
+
 **Final term project.** The final project will provide an opportunity for you to use the popular tools to build interesting applications of computer vision. Projects should be done in groups of up to three. For the project, you will be given a list of topics and choose one that you prefer working on, or you can also propose the new topic which must be closely related to the content of the course. In the end, each group is required to write a report in IEEE format and prepare the presentation as well as the demo of their chosen project. All groups must submit the same basic amount of work detailed in each item (i.e., report, presentaion, and demo) and will be graded on the same criteria. 
 
 Assessment
@@ -76,17 +78,17 @@ Your final grade will be calculated as follows:
 - Extra Credit (projects well-written in IEEE conf. format and quality): 15%
 
 Final letter grades will be assigned using the following:
-- A     95 or above
-- A-    90 up to 95
-- B+    85 up to 90
-- B     80 up to 85
-- B-    75 up to 80
-- C+    70 up to 75
-- C     65 up to 70
-- C-    60 up to 65
-- D+    55 up to 60
-- D     50 up to 55
-- F     0 up to 50
+- A :     95 or above
+- A-:    90 up to 95
+- B+:    85 up to 90
+- B :    80 up to 85
+- B-:    75 up to 80
+- C+:    70 up to 75
+- C :    65 up to 70
+- C-:    60 up to 65
+- D+:    55 up to 60
+- D :    50 up to 55
+- F :    0 up to 50
 
 Site-wide configuration
 ------

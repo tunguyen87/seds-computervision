@@ -19,7 +19,8 @@ Last day of classes: TBA
 | Lecture      |  Week | Date        |            Description                                       |  Course materials            |  Recordings  |
 | --------     | ------|------------ | ------------------------------------------------------------ |--------------------|--------------------|
 | Lecture 1    |   1   |August 15    | **Introduction to  Computer Vision** <br>-Introduction to computer vision<br>-Applications|   pdf  |        |
-| Lecture 2    |   1   |             | **Math review** <br>-Transformation matrixes<br>-Eigenvalues and eigenvectors<br>-Matrix calculus and hessian |  [Math Recap cs229](https://drive.google.com/file/d/1bcolk3lmbAZiyL9nw5BsNNP4YfRWpwI3/view?usp=sharing) <br> [Python tutorial-Jupyter notebook](https://drive.google.com/file/d/1CulmgojxRBCW7PJfKlKkFolZUsFVvvtd/view?usp=sharing) |       |
+| Lecture 2    |   1   |             | **Math review** <br>-Transformation matrixes<br>-Eigenvalues and eigenvectors<br>-Matrix calculus and hessian |  [Math Recap cs229](https://drive.google.com/file/d/1bcolk3lmbAZiyL9nw5BsNNP4YfRWpwI3/view?usp=sharing) <br> [Python tutorial-Jupyter notebook](https://drive.google.com/file/d/1CulmgojxRBCW7PJfKlKkFolZUsFVvvtd/view?usp=sharing) | [Video Lecture](https://youtu.be/VWJYI7IcxRs
+)  |
 | Lecture 3    |   2   |             | **Image formation and filtering** <br>-Pixels and image representation<br>-Image Formation<br>-Camera Models |     |        |
 | Lecture 4    |   2   |             | **Filtering** <br>-Linear systems<br>-Convolutions|       |        |
 | Lecture 5    |   3   |             | **Edge detection** <br>-Derivatives<br>-Image Enhancement<br>-Sobel filters |       |        |

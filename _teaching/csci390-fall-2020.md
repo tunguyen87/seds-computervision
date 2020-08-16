@@ -8,6 +8,11 @@ date: 2020-08-17
 ---
 The focus of this course is to introduce and familiarize the student with basic concepts of Artificial Intelligence including but not limited to Problem Solving, Reasoning, Probabilistic Reasoning and Learning, Learning from Observation, Neural Network. The student will be exposed to these traditional fields in order to understand many of the commonly used algorithms in computer science, robotics or data mining. The preferred programming language is Python but beside one or two assignments Java or C/C++ is allowed as well.
 
+Instructors
+======
+•	Professor Dinh-Mao Bui  
+•	Professor Nguyen Anh Tu
+
 Pre-Requisites
 ======
 CSCI-152 Performance and Data Structures (C- and above). This is a MUST.

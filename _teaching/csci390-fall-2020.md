@@ -6,8 +6,6 @@ venue: "School of Engineering and Digital Sciences, Department of Computer Scien
 permalink: /teaching/csci390-fall-2020
 date: 2020-08-17
 ---
-Course Overview
-======
 The focus of this course is to introduce and familiarize the student with basic concepts of Artificial Intelligence including but not limited to Problem Solving, Reasoning, Probabilistic Reasoning and Learning, Learning from Observation, Neural Network. The student will be exposed to these traditional fields in order to understand many of the commonly used algorithms in computer science, robotics or data mining. The preferred programming language is Python but beside one or two assignments Java or C/C++ is allowed as well.
 
 Pre-Requisites

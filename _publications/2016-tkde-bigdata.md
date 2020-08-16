@@ -1,5 +1,5 @@
 ---
-title: "Adaptive replication management in HDFS based on supervised learning." IEEE Transactions on Knowledge and Data Engineering"
+title: "Adaptive replication management in HDFS based on supervised learning."
 collection: publications
 permalink: /publication/2016-tkde-bigdata
 excerpt: 'Status: Published.'

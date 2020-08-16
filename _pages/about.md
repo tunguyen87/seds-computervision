@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CSCI 585 Computer Vision"
+title: "CSCI 585/785 Computer Vision"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

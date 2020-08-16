@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Information Technology, Ton Duc Thang University, Vietnam, 2009
-* M.S. in Datacommunication, Posts and Telecommunications Institute of Technology, Vietnam, 2012
+* M.S. in Data communications and Networking, Posts and Telecommunications Institute of Technology, Vietnam, 2012
 * Ph.D in Computer Science and Engineering, Kyung Hee University, Korea, 2018
 
 Work experience

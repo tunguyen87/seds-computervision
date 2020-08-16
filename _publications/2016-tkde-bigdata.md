@@ -1,7 +1,7 @@
 ---
 title: "Adaptive replication management in HDFS based on supervised learning." IEEE Transactions on Knowledge and Data Engineering"
 collection: publications
-permalink: /publication/2016-tkde-bigdata
+permalink: /publication/2016-tkde-bigdata.md
 excerpt: 'Status: Published.'
 date: 2016-01-29
 venue: 'IEEE Transactions on Knowledge and Data Engineering (SCI, IF:3.438, 2016)'

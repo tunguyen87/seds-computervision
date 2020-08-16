@@ -6,6 +6,4 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2020-07-18
 venue: 'Journal of SuperComputing'
 ---
-
-
 Recommended citation: Bui, D., Tu, N.A. & Huh, E. Energy efficiency in cloud computing based on mixture power spectral density prediction. J Supercomput (2020). https://doi.org/10.1007/s11227-020-03380-1.

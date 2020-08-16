@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: archive
 title: "Selective publications"
 permalink: /publications/
 author_profile: true

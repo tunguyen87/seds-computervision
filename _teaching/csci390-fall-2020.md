@@ -2,6 +2,7 @@
 title: "CSCI-390 Artificial Intelligence"
 collection: teaching
 type: "Undergraduate course"
+venue: "School of Engineering and Digital Sciences, Department of Computer Science"
 permalink: /teaching/csci390-fall-2020
 date: 2020-08-17
 ---

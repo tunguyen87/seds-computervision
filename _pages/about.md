@@ -11,8 +11,8 @@ Dr. Dinh-Mao Bui, finished his Ph.D. degree at Kyung Hee University, the Republi
 
 Research Areas
 ======
-•	Machine learning.
-•	Convex optimization.
-•	Stochastic processes.
-•	Performance enhancement for distributed system.
-•	Energy efficiency.
+•	Machine learning.  
+•	Convex optimization.  
+•	Stochastic processes.  
+•	Performance enhancement for distributed system.  
+•	Energy efficiency.  

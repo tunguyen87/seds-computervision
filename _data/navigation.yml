@@ -12,5 +12,5 @@ main:
   - title: "Term Project"
     url: /Project/
         
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/

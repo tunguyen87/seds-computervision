@@ -14,8 +14,8 @@ Research Areas
 * Machine learning.
 * Convex optimization.
 * Stochastic processes.
-* Performance enhancement for distributed system.
-* Energy efficiency.
+* Performance modelling.
+* Energy efficiency for distributed systems.
 
 Services
 ======

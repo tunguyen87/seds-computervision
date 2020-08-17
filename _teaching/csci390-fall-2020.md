@@ -36,7 +36,8 @@ The final grade is calculated as follows:
 * Two 10-minute quizzes 10% (in case of first quiz exempted, the second quiz will be counted as 10%)
 * One mid-term 15%
 * Nine assignments 45%
-* One final examination 30% (including all the content from the beginning to the end)
+* One final examination 30% (including all the content from the beginning to the end)  
+
 Note 1: students from other departments are graded the same as Computer Science students, no exception, no negotiation.  
 Note 2: exams can be given out of class time and venue according to the duration of exam and/or the availability of the location. In this case, we will inform at least one week before the exams. Student with spravka/valid reason MUST inform the instructors right before the quiz/exams for being considered. Late report is not accepted.
 

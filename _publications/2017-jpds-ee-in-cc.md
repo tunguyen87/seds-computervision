@@ -1,5 +1,5 @@
 ---
-title: "Energy efficiency for cloud computing system based on predictive optimization."
+title: "Energy Efficiency for Cloud Computing System based on Predictive Optimization."
 collection: publications
 permalink: /publication/2017-jpds-ee-in-cc
 excerpt: 'Status: Published.'

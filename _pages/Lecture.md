@@ -18,7 +18,7 @@ Last day of classes: November 27
 
 | Lecture      |  Week | Date        |            Description                                       |  Course materials            |  Recordings  |
 | --------     | ------|------------ | ------------------------------------------------------------ |--------------------|--------------------|
-| Lecture 1    |   1   |August 18    | **Introduction to  Computer Vision** <br>-Introduction to computer vision<br>-Applications|  [Lecture slide] (https://drive.google.com/file/d/1_PrGEuEMubJciySggpP5zvd-NrVPLOBK/view?usp=sharing)    |     |
+| Lecture 1    |   1   |August 18    | **Introduction to  Computer Vision** <br>-Introduction to computer vision<br>-Applications|  [Lecture slide](https://drive.google.com/file/d/1_PrGEuEMubJciySggpP5zvd-NrVPLOBK/view?usp=sharing)    |     |
 | Lecture 2    |   1   |August 20    | **Math review** <br>-Transformation matrixes<br>-Eigenvalues and eigenvectors<br>-Matrix calculus and hessian | [Lecture slide](https://drive.google.com/file/d/1uLgmV0tn49AipVu0oMFGyhmCP2plOAik/view?usp=sharing)<br>* [Math Recap cs229](https://drive.google.com/file/d/1bcolk3lmbAZiyL9nw5BsNNP4YfRWpwI3/view?usp=sharing) <br>* [Python tutorial-Jupyter notebook](https://drive.google.com/file/d/1CulmgojxRBCW7PJfKlKkFolZUsFVvvtd/view?usp=sharing) |      |
 | Lecture 3    |   2   |             | **Image formation and filtering** <br>-Pixels and image representation<br>-Image Formation<br>-Camera Models |     |        |
 | Lecture 4    |   2   |             | **Filtering** <br>-Linear systems<br>-Convolutions|       |        |

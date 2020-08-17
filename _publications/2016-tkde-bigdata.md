@@ -1,5 +1,5 @@
 ---
-title: "Adaptive replication management in HDFS based on supervised learning."
+title: "Adaptive Replication Management in HDFS based on Supervised Learning."
 collection: publications
 permalink: /publication/2016-tkde-bigdata
 excerpt: 'Status: Published.'

@@ -10,8 +10,8 @@ The focus of this course is to introduce and familiarize the student with basic 
 
 Instructors
 ======
-•	Professor Dinh-Mao Bui  
-•	Professor Nguyen Anh Tu
+* Professor Dinh-Mao Bui
+* Professor Nguyen Anh Tu
 
 Pre-Requisites
 ======
@@ -19,12 +19,12 @@ CSCI-152 Performance and Data Structures (C- and above). This is a MUST.
 
 Course Aims
 ======
-The aims of the course are:  
-•	Learn and Understand what is AI, what are intelligent agents and how are they used in problem solving.  
-•	Learn how to solve problems by searching, exploration vs. exploitation in strategies for problem solving, and so on  
-•	Reasoning under uncertain conditions (probabilistic reasoning)  
-•	Learning (from observation, probabilistic, reinforcement)  
-•	To be equipped with the tools to tackle new AI problems you might encounter in life.
+The aims of the course are:
+* Learn and Understand what is AI, what are intelligent agents and how are they used in problem solving.
+* Learn how to solve problems by searching, exploration vs. exploitation in strategies for problem solving, and so on
+* Reasoning under uncertain conditions (probabilistic reasoning)
+* Learning (from observation, probabilistic, reinforcement)
+* To be equipped with the tools to tackle new AI problems you might encounter in life.
 
 Course Materials
 ======
@@ -33,10 +33,10 @@ The required textbook for this course is: “Artificial Intelligence: A Modern A
 Course Assessment
 ======
 The final grade is calculated as follows:
-•	Two 10-minute quizzes 10% (in case of first quiz exempted, the second quiz will be counted as 10%)  
-•	One mid-term 15%  
-•	Nine assignments 45%  
-•	One final examination 30% (including all the content from the beginning to the end)  
+* Two 10-minute quizzes 10% (in case of first quiz exempted, the second quiz will be counted as 10%)
+* One mid-term 15%
+* Nine assignments 45%
+* One final examination 30% (including all the content from the beginning to the end)
 Note 1: students from other departments are graded the same as Computer Science students, no exception, no negotiation.  
 Note 2: exams can be given out of class time and venue according to the duration of exam and/or the availability of the location. In this case, we will inform at least one week before the exams. Student with spravka/valid reason MUST inform the instructors right before the quiz/exams for being considered. Late report is not accepted.
 

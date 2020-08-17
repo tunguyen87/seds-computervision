@@ -13,8 +13,8 @@ Team-based exercises will be used to teach project management skills. Coding wil
 
 Instructors
 ======
-•	Professor Dinh-Mao Bui  
-•	Professor Mark Sterling
+* Professor Dinh-Mao Bui
+* Professor Mark Sterling
 
 Pre-Requisites
 ======
@@ -23,8 +23,8 @@ CSCI-152 Performance and Data Structures (C- and above). This is a MUST.
 Course Aims
 ======
 The aims of the course are:  
-•	to motivate an engineering approach to the design and development of software systems, familiarize students with the key practices from industry, and outline the relevant history.  
-•	to help students cultivate a skillful approach to software development by providing practical exercises that illustrate common challenges.
+* to motivate an engineering approach to the design and development of software systems, familiarize students with the key practices from industry, and outline the relevant history.
+* to help students cultivate a skillful approach to software development by providing practical exercises that illustrate common challenges.
 
 Course Materials
 ======

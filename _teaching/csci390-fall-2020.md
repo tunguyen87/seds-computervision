@@ -45,4 +45,3 @@ Lecture slides
 ======
 * Week 1 - Orientation
 * Week 1 - Lecture 1: [Introduction to AI](https://github.com/csdmb/home/blob/master/_files/Lecture%201%20-%20Introduction.pdf) - [Video](https://www.youtube.com/watch?v=4QBd_KUDbt8)
-To be updated!

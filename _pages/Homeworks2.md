@@ -18,5 +18,7 @@ Homeworks must be submitted by the Nur-sultan time specified at the time of the 
 
 **You will be penalized 30% of points per day late (or 5% of points per 4 hours)**. Therefore, in cases of illness or family emergency, you must inform your instructor immediately if you believe you will not be able to submit your homework on time. In such cases, an exception may be made at the discretion of your instructor. 
 
-Homework 1: Linear Algebra
+Homework 1: Linear Algebra and Calculus
 ======
+
+This homework (available on Moodle) is to test your math background in Linear Algebra and Calculus. The dealine is 7 pm, Monday, August 24.

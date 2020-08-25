@@ -45,3 +45,4 @@ Lecture slides
 ======
 * Week 1 - Orientation
 * Week 1 - Lecture 1: [Introduction to AI.pdf](https://github.com/csdmb/home/blob/master/_files/Lecture%201%20-%20Introduction.pdf) - [Narrated lecture](https://www.youtube.com/watch?v=4QBd_KUDbt8)
+* Week 2 - Lecture 1: [Intelligent Agents.pdf](https://github.com/csdmb/home/blob/master/_files/Lecture%202_%20Intelligent%20Agents.pdf) - [Narrated lecture](https://www.youtube.com/watch?v=ReWBjNhklfg)

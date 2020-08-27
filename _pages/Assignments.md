@@ -22,5 +22,5 @@ Programming assignments must be submitted by the Nur-sultan time specified at th
 
 Assignment 1: Linear Algebra and Filtering
 ======
-
+In this assignment, we will go through basic linear algebra, image manipulation, and convolution using python. The submission (on Moodle) is due on 11:59 pm, Saturday, September 5.
 

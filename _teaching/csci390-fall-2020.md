@@ -13,6 +13,11 @@ Instructors
 * Professor Dinh-Mao Bui
 * Professor Nguyen Anh Tu
 
+Office Hours
+======
+From 3 PM to 4pm, Tuesday, Thursday.
+Link for weekly sign-up: [Google sheet](https://docs.google.com/spreadsheets/d/1PgTaNsYHiomK5GQ4gE3XulAQC0ZdspXwY9he8OdcY3A/edit?usp=sharing) 
+
 Pre-Requisites
 ======
 CSCI-152 Performance and Data Structures (C- and above). This is a MUST.

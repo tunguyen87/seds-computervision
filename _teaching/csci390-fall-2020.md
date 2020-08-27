@@ -44,6 +44,6 @@ Note 2: exams can be given out of class time and venue according to the duration
 Lecture slides
 ======
 * Week 1 - Orientation
-* Week 1 - Lecture 1: [Introduction to AI.pdf](https://github.com/csdmb/home/blob/master/_files/Lecture%201%20-%20Introduction.pdf) (20th August 2020)
-* Week 2 - Lecture 1: [Intelligent Agents.pdf](https://github.com/csdmb/home/blob/master/_files/Lecture%202_%20Intelligent%20Agents.pdf) (25th August 2020)
-* Week 2 - Lecture 2: [Problem Solving and Search Algorithms.pdf](https://github.com/csdmb/home/blob/master/_files/Lecture%203_Problem%20solving%20and%20search.pdf) - [Narrated lecture](https://www.youtube.com/watch?v=fMfdPIwDGQ0) (27th August 2020)
+* Week 1 - Lecture 1: [Introduction to AI.pdf](https://drive.google.com/file/d/1q1yytbCFSDXmrW5J6__Fdo-kEGpa9_j9/view?usp=sharing) (20th August 2020)
+* Week 2 - Lecture 1: [Intelligent Agents.pdf](https://drive.google.com/file/d/1TG8oz-vOb7BkrFdw5D520gn5rHIyHymo/view?usp=sharing) (25th August 2020)
+* Week 2 - Lecture 2: [Problem Solving and Search Algorithms.pdf](https://drive.google.com/file/d/1Gqcyg-2lzstAts9e5ikX9FUFTsaSvyrJ/view?usp=sharing) - [Narrated lecture](https://www.youtube.com/watch?v=fMfdPIwDGQ0) (27th August 2020)

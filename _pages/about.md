@@ -15,7 +15,7 @@ Instructor: Prof. Nguyen Anh Tu
 ======
 - **Classtime:** Tuesday and Thursday 13:30-14:45
 - **Class location:** Online
-- **Office hours:** TBA
+- **Office hours:** Wednesday and Friday 15:00-16:00 (Link for weekly sign-up is [here](https://docs.google.com/spreadsheets/d/1VFpJmmyFpQyd_e2iYmeeIiKpANtrl5H5_sQAd_2MJ5s/edit?usp=sharing))
 - **Email:** tu.nguyen@nu.edu.kz
 
 Course Description

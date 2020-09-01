@@ -52,3 +52,4 @@ Lecture slides
 * Week 1 - Lecture 1: [Introduction to AI.pdf](https://drive.google.com/file/d/1q1yytbCFSDXmrW5J6__Fdo-kEGpa9_j9/view?usp=sharing) (20th August 2020)
 * Week 2 - Lecture 1: [Intelligent Agents.pdf](https://drive.google.com/file/d/1TG8oz-vOb7BkrFdw5D520gn5rHIyHymo/view?usp=sharing) (25th August 2020)
 * Week 2 - Lecture 2: [Problem Solving and Search Algorithms.pdf](https://drive.google.com/file/d/1Gqcyg-2lzstAts9e5ikX9FUFTsaSvyrJ/view?usp=sharing) - [Narrated lecture](https://www.youtube.com/watch?v=fMfdPIwDGQ0) (27th August 2020)
+* Week 3 - Lecture 1: [Informed Search.pdf](https://drive.google.com/file/d/1Gqcyg-2lzstAts9e5ikX9FUFTsaSvyrJ/view?usp=sharing) - [Narrated lecture](https://youtu.be/ZTdZovfpYXI) (1st September 2020)

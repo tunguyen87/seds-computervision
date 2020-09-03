@@ -76,7 +76,7 @@ Your final grade will be calculated as follows:
 - Homework: 20%
 - Midterm-Exam: 25%
 - Final term project: 30%
-- Extra Credit (projects well-written in IEEE conf. format and quality): 15%
+- Extra Credit (projects well-written in IEEE conf. format and quality): 10%
 
 Final letter grades will be assigned using the following:
 - A :     95 or above

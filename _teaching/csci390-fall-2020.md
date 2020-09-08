@@ -54,3 +54,4 @@ Lecture slides
 * Week 2 - Lecture 2: [Problem Solving and Search Algorithms.pdf](https://drive.google.com/file/d/1Gqcyg-2lzstAts9e5ikX9FUFTsaSvyrJ/view?usp=sharing) - [Narrated lecture](https://www.youtube.com/watch?v=fMfdPIwDGQ0) (27th August 2020)
 * Week 3 - Lecture 1: [Informed Search.pdf](https://drive.google.com/file/d/1bvTB0pD3bfs2AgJne9JgbHwls8DgUKKq/view?usp=sharing) - [Narrated lecture](https://youtu.be/ZTdZovfpYXI) (1st September 2020)
 * Week 3 - Lecture 2: [Local Search.pdf](https://drive.google.com/file/d/1CF10TmUPuD1ZEYBphclE8Vm_1FqM3onU/view?usp=sharing) - [Narrated lecture](https://youtu.be/ABRQ3FcESmg) (3rd September 2020)
+* Week 4 - Lecture 1: [Adversarial Search.pdf](https://drive.google.com/file/d/1HDb4WiAjnyLiWXZGPBibQz9BMgoLvvcf/view?usp=sharing) - [Narrated lecture](https://www.youtube.com/watch?v=KVlvHveU84o) (9th September 2020)

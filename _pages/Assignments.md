@@ -24,3 +24,6 @@ Assignment 1: Linear Algebra and Filtering
 ======
 In this assignment, we will go through basic linear algebra, image manipulation, and convolution using python. The submission (on Moodle) is due on 11:59 pm, Saturday, September 5.
 
+Assignment 2: Canny edge detector
+======
+In this assignment, we will implement four main steps of Canny edge detection algorithm. The submission (on Moodle) is due on 11:59 pm, Wednesday, September 16.

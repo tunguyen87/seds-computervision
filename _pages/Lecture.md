@@ -36,8 +36,8 @@ Last day of classes: November 27
 | Lecture 16   |   8   | October 15 | **Visual Recognition and Bag of Words(cont'd)** <br>-Classification<br>-Scene Categorization<br>-Action recogniton|       |        |
 | Lecture 17 <br>(**PA4**)  |   9   | October 20 | **Content-based Image Retrieval** <br>-TF-IDF<br>-Spatial Verification  |      |        |
 | Lecture 18   |   9   | October 22 | **Content-based Image Retrieval(cont'd)** <br>-Spatial Verification(cont'd)<br>-Query Expansion |     |        |
-| Lecture 19 <br>(**HW4**)  |   10  | October 27 | **Object detection** <br>-Detecting objects by parts|       |        |
-| Lecture 20   |   10  | October 29 | **Object detection(cont'd)** <br>-Detection with Sliding Windows (Viola Jones) |      |        |
+| Lecture 19   |   10  | October 27 | **Object detection** <br>-Detecting objects by parts|       |        |
+| Lecture 20 <br>(**HW4**)  |   10  | October 29 | **Object detection(cont'd)** <br>-Detection with Sliding Windows (Viola Jones) |      |        |
 | Lectures 21+22 |   11  | November 3,5 | **Face Recognition** <br>-Eigenfaces<br>-Local Binary Patterns and its variants<br>-Advanced methods for face recognition|     |      |
 | Lectures 23+24 <br>(**PA5**)|   12  | November 10,12 | **Convolutional Neural Networks – Part I** <br>-Perceptron<br>-Basic Neural Network<br>-Perceptron Training<br>-Gradient Descent|   |  |
 | Lectures 25+26|   13  | November 17,19 | **Convolutional Neural Networks – Part 2** <br>-Backpropagation<br>-CNN<br>-Architectures<br>-CNN-based Vision Applications |    |     |

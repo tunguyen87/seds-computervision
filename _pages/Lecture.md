@@ -29,16 +29,16 @@ Last day of classes: November 27
 | Lecture 9    |   5   |September 15       | **Corner detection** <br>-Harris Corner Detection(cont'd)<br>-Multiscale detection |      |        |
 | Lecture 10 <br>(HW2)   |   5   |September 17       | **Local Image Features in Scale Space** <br>-Designing descriptors<br>-Difference of Gaussians|       |        |
 | Lecture 11   |   6   |September 22       | **Local Image Features in Scale Space(cont'd)** <br>-Affine Invariance and SIFT<br>-More Feature Descriptors |      |        |
-| Lecture 12 <br>(PA3)  |   6   |             | **Matching** <br>-Model fitting<br>-RANSAC |     |        |
-| Lecture 13   |   7   |             | **Machine Learning crash course** <br>-Supervised learning<br>-Unsupervised learning|       |        |
-| Lecture 14   |   7   |             | **Image segmentation** <br>-Theory of perceptual grouping<br>-Aggomerative clustering<br>-Superpixels and oversegmentation|    |       |
-| Lecture 15   |   8   |             | **Visual Recognition and Bag of Words** <br>-Visual Bag of Words<br>-Image Pyramid<br>-Feature encoding|      |      |
-| Lecture 16   |   8   |             | **Visual Recognition and Bag of Words(cont'd)** <br>-Classification<br>-Scene Categorization<br>-Action recogniton|       |        |
-| Lecture 17   |   9   |             | **Content-based Image Retrieval** <br>-TF-IDF<br>-Spatial Verification  |      |        |
-| Lecture 18   |   9   |             | **Content-based Image Retrieval(cont'd)** <br>-Spatial Verification(cont'd)<br>-Query Expansion |     |        |
-| Lecture 19   |   10  |             | **Object detection** <br>-Detecting objects by parts|       |        |
-| Lecture 20   |   10  |             | **Object detection(cont'd)** <br>-Detection with Sliding Windows (Viola Jones) |      |        |
-| Lectures 21+22|   11  |             | **Face Recognition** <br>-Eigenfaces<br>-Local Binary Patterns and its variants<br>-Advanced methods for face recognition|     |      |
-| Lectures 23+24|   12  |             | **Convolutional Neural Networks – Part I** <br>-Perceptron<br>-Basic Neural Network<br>-Perceptron Training<br>-Gradient Descent|   |  |
-| Lectures 25+26|   13  |             | **Convolutional Neural Networks – Part 2** <br>-Backpropagation<br>-CNN<br>-Architectures<br>-CNN-based Vision Applications |    |     |
-| No Lecture    |   14  |             | **Student presentations**  |      |        |
+| Lecture 12 <br>(PA3)  |   6   | September 24             | **Matching** <br>-Model fitting<br>-RANSAC |     |        |
+| Lecture 13   |   7   | September 29  | **Machine Learning crash course** <br>-Supervised learning<br>-Unsupervised learning|       |        |
+| Lecture 14   |   7   | October 1  | **Image segmentation** <br>-Theory of perceptual grouping<br>-Aggomerative clustering<br>-Superpixels and oversegmentation|    |       |
+| Lecture 15 <br>(HW3)  |   8   | October 13 | **Visual Recognition and Bag of Words** <br>-Visual Bag of Words<br>-Image Pyramid<br>-Feature encoding|      |      |
+| Lecture 16   |   8   | October 15 | **Visual Recognition and Bag of Words(cont'd)** <br>-Classification<br>-Scene Categorization<br>-Action recogniton|       |        |
+| Lecture 17 <br>(PA4)  |   9   | October 20 | **Content-based Image Retrieval** <br>-TF-IDF<br>-Spatial Verification  |      |        |
+| Lecture 18   |   9   | October 22 | **Content-based Image Retrieval(cont'd)** <br>-Spatial Verification(cont'd)<br>-Query Expansion |     |        |
+| Lecture 19 <br>(HW4)  |   10  | October 27 | **Object detection** <br>-Detecting objects by parts|       |        |
+| Lecture 20   |   10  | October 29 | **Object detection(cont'd)** <br>-Detection with Sliding Windows (Viola Jones) |      |        |
+| Lectures 21+22 <br>(PA5)|   11  | November 3,5 | **Face Recognition** <br>-Eigenfaces<br>-Local Binary Patterns and its variants<br>-Advanced methods for face recognition|     |      |
+| Lectures 23+24|   12  | November 10,12 | **Convolutional Neural Networks – Part I** <br>-Perceptron<br>-Basic Neural Network<br>-Perceptron Training<br>-Gradient Descent|   |  |
+| Lectures 25+26|   13  | November 17,19 | **Convolutional Neural Networks – Part 2** <br>-Backpropagation<br>-CNN<br>-Architectures<br>-CNN-based Vision Applications |    |     |
+| No Lecture    |   14  | November 24,26            | **Student presentations**  |      |        |

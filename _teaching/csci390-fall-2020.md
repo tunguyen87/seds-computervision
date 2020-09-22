@@ -56,3 +56,5 @@ Lecture slides
 * Week 3 - Lecture 2: [Local Search.pdf](https://drive.google.com/file/d/1CF10TmUPuD1ZEYBphclE8Vm_1FqM3onU/view?usp=sharing) - [Narrated lecture](https://youtu.be/ABRQ3FcESmg) (3rd September 2020)
 * Week 4 - Lecture 1: [Adversarial Search 1.pdf](https://drive.google.com/file/d/1HDb4WiAjnyLiWXZGPBibQz9BMgoLvvcf/view?usp=sharing) - [Narrated lecture](https://www.youtube.com/watch?v=KVlvHveU84o) (8th September 2020)
 * Week 4 - Lecture 2: [Adversarial Search 2.pdf](https://drive.google.com/file/d/1ceeEXq5gzoOqSeibsWdOJ0o0XaaFyZk-/view?usp=sharing) - [Narrated lecture](https://www.youtube.com/watch?v=SmH4Uhh9qQI) (10th September 2020)
+* Week 5 - Lecture: [Uncertainty.pdf](https://drive.google.com/file/d/1Uf0fFH2YHD_tvt7ZJTVVJFhOo0zMIvX7/view?usp=sharing) - [Narrated lecture-part 1](https://youtu.be/Hef5_HmOvuE) - [Narrated lecture-part 2](https://youtu.be/N3tI08kkog8) (15-17 September 2020)
+* Week 6 - Lecture 1: [Bayesian network: representation](https://drive.google.com/file/d/1j1ExgDONiTQ_yqDRbljf2mlh0wTiLXr5/view?usp=sharing) - [Narrated lecture](https://youtu.be/pVPLra2577I)(22nd September 2020)

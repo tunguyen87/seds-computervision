@@ -30,14 +30,14 @@ Last day of classes: November 27
 | Lecture 10 <br>(**HW2**)   |   5   |September 17       | **Designing local descriptors** <br>-Local descriptors<br>-SIFT| [Lecture slide](https://drive.google.com/file/d/1jiv1wkQ4HCTdVSbs2htl9uygfHfRprL1/view?usp=sharing) <br> Background reading: <br>- Szeliski: chapter 4.1 <br> - [SIFT-paper](https://drive.google.com/file/d/1A8C-1Bpj0HgBLLywAFoDTXmElCCTViKt/view?usp=sharing) <br> - [OpenCV-SIFT-tutorial](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_sift_intro/py_sift_intro.html)    | [Video Lecture](https://youtu.be/fnTwCwoS5pk)       |
 | Lecture 11   |   6   |September 22       | **More descriptors and feature matching** <br>-HOG<br>-Image stitching & feature matching | [Lecture slide](https://drive.google.com/file/d/1_ZgROlwn2wRHe7fzJqiXtWPYS_qfOHnX/view?usp=sharing) <br> Background reading: <br>- Szeliski 4.1.3, 4.3.2 <br>-[HOG-paper](https://drive.google.com/file/d/11vE3d5yZ0Qvrg5awfwsqtf0fh7FG-gYO/view?usp=sharing)| [Video lecture](https://youtu.be/7ktUsvPhwd0)       |
 | Lecture 12 <br>(**PA3**)  |   6   | September 24             | **Matching** <br>-Model fitting<br>-RANSAC | [Lecture slide](https://drive.google.com/file/d/1Q7bZ2jhZTI_K3b-cQILbv4Rlvlssm9vP/view?usp=sharing)     | [Video lecture](https://youtu.be/HTLNx_xn_Ps)       |
-| Midterm exam |   7  | Sept 29 - Oct 1 | No lectures|       |        |
+| No lecture |   7  | Sept 29 - Oct 1 | |  Midterm exam     |        |
 | Lecture 13   |   8   | October 13  | **Machine Learning crash course** <br>-Unsupervised learning| [Lecture slide](https://drive.google.com/file/d/14R9aj4uQJSuU4jID0Usd1Fhe3JLQ5ZSl/view?usp=sharing)      | [Video lecture-Unsupervised](https://youtu.be/rUvaI-JcK4E)       |
 | Lecture 14   |   8   | October 15  | **Machine Learning crash course** <br>-Supervised learning|      |       |
-| Lecture 15   |   7   | October 20  | **Image segmentation** <br>-Theory of perceptual grouping<br>-Aggomerative clustering<br>-Superpixels and oversegmentation|    |       |
-| Lecture 16 <br>(**HW3**)  |   8   | October 22 | **Visual Recognition and Bag of Words** <br>-Visual Bag of Words<br>-Feature encoding<br>-Scene Categorization<br>-Action recogniton|      |      |
-| Lecture 17 <br>(**PA4**)  |   9   | October 27 | **Content-based Image Retrieval** <br>-TF-IDF<br>-Spatial Verification  |      |        |
+| Lecture 15   |   9   | October 20  | **Image segmentation** <br>-Theory of perceptual grouping<br>-Aggomerative clustering<br>-Superpixels and oversegmentation|    |       |
+| Lecture 16 <br>(**HW3**)  |   9   | October 22 | **Visual Recognition and Bag of Words** <br>-Visual Bag of Words<br>-Feature encoding<br>-Scene Categorization<br>-Action recogniton|      |      |
+| Lecture 17 <br>(**PA4**)  |   10   | October 27 | **Content-based Image Retrieval** <br>-TF-IDF<br>-Spatial Verification  |      |        |
 | Lecture 18   |   10  | October 29 | **Object detection** <br>-Detecting objects by parts|       |        |
-| Lecture 19 <br>(**HW4**)  |   10  | November 3 | **Object detection(cont'd)** <br>-Detection with Sliding Windows (Viola Jones) |      |        |
+| Lecture 19 <br>(**HW4**)  |   11  | November 3 | **Object detection(cont'd)** <br>-Detection with Sliding Windows (Viola Jones) |      |        |
 | Lectures 20 |   11  | November 5 | **Face Recognition** <br>-Eigenfaces<br>-Local Binary Patterns and its variants<br>-Advanced methods for face recognition|     |      |
 | Lectures 23+24 <br>(**PA5**)|   12  | November 10,12 | **Convolutional Neural Networks – Part I** <br>-Perceptron<br>-Basic Neural Network<br>-Perceptron Training<br>-Gradient Descent|   |  |
 | Lectures 25+26|   13  | November 17,19 | **Convolutional Neural Networks – Part 2** <br>-Backpropagation<br>-CNN<br>-Architectures<br>-CNN-based Vision Applications |    |     |

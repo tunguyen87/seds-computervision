@@ -35,8 +35,8 @@ Last day of classes: November 27
 | Lecture 14   |   8   | October 15  | **Machine Learning crash course** <br>-Supervised learning|      |       |
 | Lecture 15   |   9   | October 20  | **Image segmentation** <br>-Theory of perceptual grouping<br>-Aggomerative clustering<br>-Superpixels and oversegmentation|    |       |
 | Lecture 16 <br>(**HW3**)  |   9   | October 22 | **Visual Recognition and Bag of Words** <br>-Visual Bag of Words<br>-Feature encoding<br>-Scene Categorization<br>-Action recogniton|      |      |
-| Lecture 17 <br>(**PA4**)  |   10   | October 27 | **Content-based Image Retrieval** <br>-TF-IDF<br>-Spatial Verification  |      |        |
-| Lecture 18   |   10  | October 29 | **Object detection** <br>-Detecting objects by parts|       |        |
+| Lecture 17   |   10   | October 27 | **Content-based Image Retrieval** <br>-TF-IDF<br>-Spatial Verification  |      |        |
+| Lecture 18 <br>(**PA4**)  |   10  | October 29 | **Object detection** <br>-Detecting objects by parts|       |        |
 | Lecture 19   |   11  | November 3 | **Object detection(cont'd)** <br>-Detection with Sliding Windows (Viola Jones) |      |        |
 | Lectures 20 <br>(**HW4**)|   11  | November 5 | **Face Recognition** <br>-Eigenfaces<br>-Local Binary Patterns and its variants<br>-Advanced methods for face recognition|     |      |
 | Lectures 23+24 |   12  | November 10,12 | **Convolutional Neural Networks – Part I** <br>-Perceptron<br>-Basic Neural Network<br>-Perceptron Training<br>-Gradient Descent|   |  |
